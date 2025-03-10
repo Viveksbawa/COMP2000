@@ -28,7 +28,7 @@ Here are the key projects included in this repository:
 - **AppNotifications**  
    A demo showcasing how to implement notifications to alert users and navigate them to the relevant activity upon clicking the notification.
 - **SQLite**  
-   Demonstrates how to use SQLite in Android for local database storage, covering SQLiteOpenHelper, database creation, CRUD operations, and using Cursor to retrieve data.
+   Demonstrates how to use SQLite in Android for local database storage, covering `SQLiteOpenHelper`, database creation, CRUD operations, and using `Cursor` to retrieve data.
 
 
 
