@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">l6_menus</string>
+    <string name="popup_option1">Option 1</string>
+    <string name="popup_option2">Option 2</string>
 </resources>
